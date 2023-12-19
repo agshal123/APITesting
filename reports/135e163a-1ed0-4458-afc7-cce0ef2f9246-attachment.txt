@@ -1,0 +1,1 @@
+{'firstname': 'Smith', 'lastname': 'Allen', 'totalprice': 1000, 'depositpaid': True, 'bookingdates': {'checkin': '2024-01-01', 'checkout': '2024-01-05'}, 'additionalneeds': 'Lunch'}

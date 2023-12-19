@@ -1,0 +1,2 @@
+{"bookingid":1077,"booking":{"firstname":"Smith","lastname":"Allen","totalprice":1000,"depositpaid":true,"bookingdates":{"checkin":"2024-01-01","checkout":"2024-01-05"},"additionalneeds":"Lunch"}}
+<class 'dict'>
